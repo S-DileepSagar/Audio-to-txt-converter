@@ -1,0 +1,6 @@
+Steps:
+1. Install PyCharm Community Edition
+2. create two files app.py and requirements.txt
+3. open terminal and navigate to the directory where requirements.txt is there
+4. Type "pip install -r requirements.txt"
+5. make an app.py file in the same directory and run it
